@@ -31,7 +31,7 @@ body
 	 margin: 60px auto 0 auto;
 	 box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
 	 display: block;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("zul.jpg");
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("zul.JPG");
 
 background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
