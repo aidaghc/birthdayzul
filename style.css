@@ -1,14 +1,26 @@
 
 
-body
+/* body
 {
   background-image:  linear-gradient(to top, rgba(148, 143, 143, 0.089), rgba(150, 144, 144, 0.089)),url("team.jpg");
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
     background-position: center;
-    
+    display: block;
     background-size: 1800px 1500px;
+} */
+
+body
+{
+  background-image:  linear-gradient(to top, rgba(148, 143, 143, 0.089), rgba(150, 144, 144, 0.089)),url("gf.jpeg");
+    height: 100%;
+    margin: 0;
+    background-repeat: repeat;
+    background-position: left;
+	background-size: 750px 1500px;
+   
+   
 }
 
 .card {
@@ -18,6 +30,7 @@ body
 	 border: 10px solid #9612eb;
 	 margin: 60px auto 0 auto;
 	 box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
+	 display: block;
     background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("zul.jpg");
 
 background-position: center; /* Center the image */
